@@ -1,0 +1,8 @@
+{
+"oauth_auth_token": "", 
+"oauth_verifier": "", 
+"consumer_secret": "your-consumer-secret", 
+"oauth_setup_done": false, 
+"callback_url": "https://everpy.abyle.org/oauth/", 
+"consumer_key": "your-consumer-key"
+}
